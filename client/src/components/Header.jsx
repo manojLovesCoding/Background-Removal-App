@@ -21,7 +21,6 @@ const Header = () => {
             <div className='w-full max-w-md'>
                 <img src={assets.header_img} />
             </div>
-
         </div>
     )
 }
